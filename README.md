@@ -51,6 +51,10 @@ Additional functionality was implemented for loading more photos:
 * Pixel perfection.
 * Componential thinking.
 
+# Preview
+<img width="396" height="666" alt="image" src="https://github.com/user-attachments/assets/5f325bec-11c3-4c7b-8155-133487cececd" />
+
+
 ## 🎓 Purpose
 
 This project was created as part of my school practice class,
